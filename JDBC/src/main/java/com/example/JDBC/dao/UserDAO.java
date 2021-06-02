@@ -154,7 +154,9 @@ public class UserDAO implements IUserDAO {
         return userList;
     }
 
-    final String ODER_BY_USERS_SQL = "select * from users order by name";
+    final String ODER_BY_USERS_SQL = "select users.id,users.name,users.email, country.name as country_name \n" +
+            "from users inner join country on users.id_country = country.id \n" +
+            "order by name;";
 
     @Override
     public List<User> sortUser() {
@@ -168,9 +170,9 @@ public class UserDAO implements IUserDAO {
                 int id = rs.getInt("id");
                 String name = rs.getString("name");
                 String email = rs.getString("email");
-                int id_country = rs.getInt("id_country");
-                userList.add(new User(id,name,email,id_country));
-        }
+                String country = rs.getString("country_name");
+                userList.add(new User(id,name,email,country));
+            }
 
         } catch (SQLException throwables) {
             throwables.printStackTrace();
