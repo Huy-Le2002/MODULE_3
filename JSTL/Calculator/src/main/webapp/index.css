@@ -1,0 +1,20 @@
+div {
+    width: 30%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+legend {
+    font-size: 22px;
+}
+#input1 {
+    margin-left: 18px;
+}
+#cal {
+    margin-left: 51px;
+}
+#submit {
+    margin-left: 150px;
+    margin-top: 5px;
+}

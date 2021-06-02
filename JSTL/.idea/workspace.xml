@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5f1805c-e351-487d-8ed5-016af770d4a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JSP/CurrencyConverter/src/main/webapp/CurrencyConverter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/Dictionnary/src/main/webapp/dictionnary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/Discount/src/main/webapp/discount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaApplication/CurrencyConverter/src/main/java/com/example/CurrencyConverter/CurrencyConverterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaApplication/Discount/src/main/java/com/example/Discount/DiscountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaApplication/Translate/src/main/java/com/example/Translate/TranslateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaApplication/simple login/src/main/java/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/CaseStudyMD2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/PatientDB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/out/production/CaseStudyMD2/com/patient/dal/PatientDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/out/production/CaseStudyMD2/com/patient/model/Patient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/out/production/CaseStudyMD2/com/patient/presentation/MainPatient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/out/production/CaseStudyMD2/com/patient/service/PatientService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/src/com/patient/dal/PatientDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/src/com/patient/model/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/src/com/patient/presentation/MainPatient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudyMD2/src/com/patient/service/PatientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/-Huy-Chuong-_BTSuKienChuot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/CS-module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/CS-module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/Function" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/Function" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/controll-car" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/controll-car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/htmlw1" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/htmlw1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/js" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MODULE 1/vonglap" beforeDir="false" afterPath="$PROJECT_DIR$/../../MODULE 1/vonglap" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1t1JRZv1mZtzigEQOFZo4YL6Fjn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5f1805c-e351-487d-8ed5-016af770d4a1" name="Default Changelist" comment="" />
+      <created>1621930654610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621930654610</updated>
+      <workItem from="1621930655813" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
