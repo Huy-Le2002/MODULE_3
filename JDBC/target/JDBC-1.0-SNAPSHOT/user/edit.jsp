@@ -56,7 +56,6 @@
 <%--                           value="<c:out value='${data.country}' />"--%>
 <%--                    />--%>
 
-
                     <select id="country" name="id_country">
                         <c:forEach var="country" items="${data_country}">
                             <c:choose>
