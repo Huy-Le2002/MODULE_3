@@ -14,8 +14,10 @@ import java.util.List;
 
 @WebServlet(name = "UserServlet", urlPatterns = "/user")
 public class UserServlet extends HttpServlet {
-    private IUserDAO userDAO = new UserDAO();
-
+    private IUserDAO userDAO;
+    public void init() {
+        userDAO = new UserDAO();
+    }
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.setCharacterEncoding("UTF-8");
@@ -88,9 +90,9 @@ public class UserServlet extends HttpServlet {
                 break;
             case "find":
                 findLike(request,response);
+                break;
             default:
                 listUser(request,response);
-                break;
         }
     }
 
